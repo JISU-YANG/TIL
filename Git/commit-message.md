@@ -28,3 +28,5 @@ footer(옵션) // 꼬리말
 ```
 예) Feat: "추가 get data api 함수"
 ```
+
+[참조](https://overcome-the-limits.tistory.com/6#%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B5%AC%EC%A1%B0)
