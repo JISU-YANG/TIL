@@ -9,7 +9,8 @@
 
 - [.class (Clsss Literals)](/Java/class-literals.md)
 - [static import](/Java/import-static.md)
-- [final parameter]()
+- [Final Parameter](/Java/final-parameter.md)
+- [Enum 타입](/Java/enum-type.md)
 
 ### Git
 
