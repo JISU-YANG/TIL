@@ -106,16 +106,6 @@ for(int i = 0; i < arNum.length; i++){
 > </br>
 > 혹시나 해서 10번의 결과의 평균으로 비교를 해보아도 결과는 같았다.  
 
-![](/Source/ELSE-IF-%EC%86%8D%EB%8F%84-%EB%B9%84%EA%B5%90.jpeg)
+![](/Source/ELSE-IF-속도-비교.jpeg)
 
-같은 범위 if, if
-![](/Source/같은-범위-if-if.png)
-
-같은 범위 if, else-if
-![](/Source/같은-범위-if-else-if.png)
-
-다른 범위 if, else-if
-![](/Source/다른-범위-if-else-if.png)
-
-다른 범위 if, if
-![](/Source/다른-범위-if-if.png)
+![](/Source/범위별-속도-비교.png)
