@@ -19,6 +19,7 @@
 - [Plugin과 Dependency의 차이](/Maven/plugin-dependency.md)
 
 ### SQL
+- [DB 모델링과 RDBMS의 용어 차이](/DB/modeling_rdbms_difference.md)
 - [DISTINCT와 GROUP BY의 차이](/DB/distinct_groupby_difference.md)
 
 
