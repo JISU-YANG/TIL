@@ -11,8 +11,8 @@
 - [Enum 타입](/Java/enum-type.md)
 - [else if문에 대한 고찰](Java/else-if.md)
 - ### Series
-  - [JAVA 40 LEVEL](/Java/Java%2040%20Level/README.md)
-
+  - [Java 40 Level](/Java/Java%2040%20Level/README.md)
+  - [Java 알고리즘](/알고리즘/README.md)
 
 
 ## Git
@@ -25,7 +25,3 @@
 ## SQL
 - [DB 모델링과 RDBMS의 용어 차이](/DB/modeling_rdbms_difference.md)
 - [DISTINCT와 GROUP BY의 차이](/DB/distinct_groupby_difference.md)
-
-
-## ETC.
-- [Java 알고리즘](/알고리즘/README.md)
