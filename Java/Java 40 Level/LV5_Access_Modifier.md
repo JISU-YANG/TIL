@@ -1,5 +1,5 @@
 ## JAVA 40 LEVEL
-# Lv.4 Name_Rule
+# Lv.5 Access Modifier
 
 ### 접근 제한자 (Access Modifier)
 생성된 객체의 변수와 메소드를 접근할 수 있는 범위를 정해준다.

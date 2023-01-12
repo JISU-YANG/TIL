@@ -1,5 +1,5 @@
 ## JAVA 40 LEVEL
-# Lv.4 Name_Rule
+# Lv.4 Name Rule
 
 ### 명명법 (Name Rule)
 식별자(Identifier)를 정의하는 규칙, 이 약속에 따라 형태로도 구분이 가능하다. 
