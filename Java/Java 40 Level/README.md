@@ -12,3 +12,4 @@
 - [LV.8 Primitive Type](/Java/Java%2040%20Level/LV8_Primitive_Type.md)
 - [LV.9 Casting](/Java/Java%2040%20Level/LV9_Casting.md)
 - [LV.10 Auto Boxing](/Java/Java%2040%20Level/LV10_Auto_Boxing.md)
+- [LV.11 Terms of Class](/Java/Java%2040%20Level/LV11_Terms_of_Class.md)
