@@ -1,3 +1,6 @@
+## JAVA 40 LEVEL
+# Lv.11 Terms of Class
+
 ```java
 // 패키지 라인
 // 1. 소문자로 작성 2. 문단의 가장 첫 라인
