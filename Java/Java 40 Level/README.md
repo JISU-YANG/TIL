@@ -13,3 +13,4 @@
 - [LV.9 Casting](/Java/Java%2040%20Level/LV9_Casting.md)
 - [LV.10 Auto Boxing](/Java/Java%2040%20Level/LV10_Auto_Boxing.md)
 - [LV.11 Terms of Class](/Java/Java%2040%20Level/LV11_Terms_of_Class.md)
+- [LV.12 Static](/Java/Java%2040%20Level/LV12_Static.md)
