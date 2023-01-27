@@ -14,3 +14,6 @@
 - [LV.10 Auto Boxing](/Java/Java%2040%20Level/LV10_Auto_Boxing.md)
 - [LV.11 Terms of Class](/Java/Java%2040%20Level/LV11_Terms_of_Class.md)
 - [LV.12 Static](/Java/Java%2040%20Level/LV12_Static.md)
+- [Lv.13 Method](/Java/Java%2040%20Level/LV13_Method.md)
+- [Lv.14 OverLoad](/Java/Java%2040%20Level/LV14_OverLoading.md)
+- [Lv.15 Syntex](/Java/Java%2040%20Level/LV15_Syntex.md)
