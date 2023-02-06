@@ -17,3 +17,6 @@
 - [Lv.13 Method](/Java/Java%2040%20Level/LV13_Method.md)
 - [Lv.14 OverLoad](/Java/Java%2040%20Level/LV14_OverLoading.md)
 - [Lv.15 Syntex](/Java/Java%2040%20Level/LV15_Syntex.md)
+- [Lv.16 Ternary Operator](/Java/Java%2040%20Level/LV16_Ternary_Operator.md)
+- [Lv.17 Short Circuit](/Java/Java%2040%20Level/LV17_Short_Circuit.md)
+- [Lv.18 JAVA DOC](/Java/Java%2040%20Level/LV18_JAVA_DOC.md)
