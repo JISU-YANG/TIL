@@ -16,3 +16,5 @@ API 주석은 /**로 열고 */로 닫혀있다.
 이클립스에서 Javadoc을 생성할때 VM 옵션에 UTF-8로 인코딩 타입을 설정해줄 수 있다.
 eclipse > export> VM options
 -local ko_KR -encoding UTF-8 -charset UTF-8 -docencoding UTF-8
+
+![](/Source/Eclipse_Javadoc_VMOption.png)
