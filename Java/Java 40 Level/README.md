@@ -20,3 +20,5 @@
 - [Lv.16 Ternary Operator](/Java/Java%2040%20Level/LV16_Ternary_Operator.md)
 - [Lv.17 Short Circuit](/Java/Java%2040%20Level/LV17_Short_Circuit.md)
 - [Lv.18 JAVA DOC](/Java/Java%2040%20Level/LV18_JAVA_DOC.md)
+- [Lv.19 Obejct Class](/Java/Java%2040%20Level/LV19_Object_Class.md)
+- [Lv.20 String 1](/Java/Java%2040%20Level/LV20_String1.md)
