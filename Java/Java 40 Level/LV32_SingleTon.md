@@ -41,4 +41,4 @@ public class SingleTon {
 ### 추가 디자인 패턴
 - Factory: polymorphism
 - Template: clone()
-- Delegatur: Bean(ioc)
+- Delegate: Bean(ioc)
