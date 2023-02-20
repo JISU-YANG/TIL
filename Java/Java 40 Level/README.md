@@ -32,3 +32,8 @@
 - [Lv.28 Array](/Java/Java%2040%20Level/LV28_Array.md)
 - [Lv.29 Final](/Java/Java%2040%20Level/LV29_Final.md)
 - [Lv.30 Exception](/Java/Java%2040%20Level/LV30_Exception.md)
+- [Lv.31 Extends](/JAVA/Java%2040%20Level/LV31_Extends.md)
+- [Lv.32 Singleton Pattern](/JAVA/Java%2040%20Level/LV32_SingleTon.md)
+- [Lv.33 Abstract vs Interface](/JAVA/Java%2040%20Level/LV33_Abstract-Interface.md)
+- [Lv.34 Factory Pattern](/JAVA/Java%2040%20Level/LV34_Factory_Pattern.md)
+- [Lv.35 Memory](/JAVA/Java%2040%20Level/LV35_Memory.md)
