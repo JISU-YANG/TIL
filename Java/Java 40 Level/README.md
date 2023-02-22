@@ -37,3 +37,7 @@
 - [Lv.33 Abstract vs Interface](/JAVA/Java%2040%20Level/LV33_Abstract-Interface.md)
 - [Lv.34 Factory Pattern](/JAVA/Java%2040%20Level/LV34_Factory_Pattern.md)
 - [Lv.35 Memory](/JAVA/Java%2040%20Level/LV35_Memory.md)
+- [Lv.36 Garbage Collector](/Java/Java%2040%20Level/LV36_Garbage-Collector.md)
+- [Lv.37 OOP](/Java/Java%2040%20Level/LV37_OOP.md)
+- [Lv.39 JCF](/Java/Java%2040%20Level/LV39_JCF.md)
+- [Lv.40 Design Pattern](/Java/Java%2040%20Level/LV40_Design_Pattern.md)
