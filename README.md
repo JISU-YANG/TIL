@@ -7,18 +7,23 @@
 - [DI와 IoC](/Spring%20Framework/DI%EC%99%80IoC.md)
 
 ## Java
-- [.class (Clsss Literals)](/Java/class-literals.md)
-- [static import](/Java/import-static.md)
-- [Final Parameter](/Java/final-parameter.md)
-- [Enum 타입](/Java/enum-type.md)
-- [else if문에 대한 고찰](Java/else-if.md)
+- ### Short
+  - [.class (Clsss Literals)](/Java/class-literals.md)
+  - [static import](/Java/import-static.md)
+  - [Final Parameter](/Java/final-parameter.md)
+  - [Enum 타입](/Java/enum-type.md)
+  - [else if문에 대한 고찰](Java/else-if.md)
 - ### Series
   - [Java 40 Level](/Java/Java%2040%20Level/README.md)
   - [알고리즘](/알고리즘/README.md)
+  - 리팩토링
 
 ## Git
-- [Commit Message Guide](/Git/commit-message.md)
-- [Git Init 되돌리기](/Git/init-되돌리기.md)
+- ### Short
+  - [Commit Message Guide](/Git/commit-message.md)
+  - [Git Init 되돌리기](/Git/init-되돌리기.md)
+- ### Series
+  - [Hello, Github](/Git/Hello%20Github/README.md)
 
 ## Maven
 - [Plugin과 Dependency의 차이](/Maven/plugin-dependency.md)
@@ -26,6 +31,6 @@
 ## SQL
 - [RDBMS, 관계형 데이터베이스 관리 시스템](/DB/RDMBS.md)
 - [Oracle DB, Tablespace](/DB/Oracle-DB_Tablespace.md)
-- [Oracle DB, Type & Concatenation]()
+- [Oracle DB, Type & Concatenation](/DB/Oracle-DB_Type_Concatenation.md)
 - [DB 모델링과 RDBMS의 용어 차이](/DB/modeling_rdbms_difference.md)
 - [DISTINCT와 GROUP BY의 차이](/DB/distinct_groupby_difference.md)
