@@ -1,5 +1,10 @@
-# [Hello, Github](/Git/Hello%20Github/README.md)
-## Rebase
+[Today I Learned](/README.md) > [Hello, Github](/Git/Hello%20Github/README.md) > Rebase
+
+---
+
+</br>
+
+# Rebase
 
 ### 재배치(Rebase)
 현재 브랜치가 대상 브랜치 위로 올라간다? 두 브랜치를 합칠때 사용한다.

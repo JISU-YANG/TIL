@@ -1,5 +1,10 @@
-# [Hello, Github](/Git/Hello%20Github/README.md)
-## Conflict
+[Today I Learned](/README.md) > [Hello, Github](/Git/Hello%20Github/README.md) > Conflict
+
+---
+
+</br>
+
+# Conflict
 
 ### 충돌 (Confict)
 병합하는 과정에서 충돌이 발생할 수 있다.

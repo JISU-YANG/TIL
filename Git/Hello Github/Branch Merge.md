@@ -1,5 +1,10 @@
-# [Hello, Github](/Git/Hello%20Github/README.md)
-## Branch Merge
+[Today I Learned](/README.md) > [Hello, Github](/Git/Hello%20Github/README.md) > Branch Merge
+
+---
+
+</br>
+
+# Branch Merge
 
 ### 합병 (머지, Merge)
 헤드 브랜치에서 특정 커밋을 기준으로 합병이 일어난다.

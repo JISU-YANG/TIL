@@ -1,5 +1,10 @@
-# [Hello, Github](/Git/Hello%20Github/README.md)
-## 형상관리와 Github
+[Today I Learned](/README.md) > [Hello, Github](/Git/Hello%20Github/README.md) > 형상관리와 Github
+
+---
+
+</br>
+
+# 형상관리와 Github
 
 ### 형상관리의 의미
 소프트웨어의 변경사항에 대해 관리하는 것

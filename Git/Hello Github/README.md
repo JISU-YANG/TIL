@@ -1,7 +1,14 @@
+[Today I Learned](/README.md) > [Hello, Github](/Git/Hello%20Github/README.md)
+
+---
+
 2020.08
+
+</br>
+ 
 # Hello, Github
 
-> ## [Inflearn] Git과 GitHub 시작하기  </br>
+> ### [Inflearn] Git과 GitHub 시작하기  </br>
 > https://www.inflearn.com/course/git-and-github/dashboard
 
 </br>

@@ -1,5 +1,10 @@
-# [Hello, Github](/Git/Hello%20Github/README.md)
-## Github 핵심 용어
+[Today I Learned](/README.md) > [Hello, Github](/Git/Hello%20Github/README.md) > Github 핵심 용어
+
+---
+
+</br>
+
+# Github 핵심 용어
 
 
 ### 핵심 용어

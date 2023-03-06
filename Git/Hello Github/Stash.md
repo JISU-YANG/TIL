@@ -1,5 +1,10 @@
-# [Hello, Github](/Git/Hello%20Github/README.md)
-## Stash
+[Today I Learned](/README.md) > [Hello, Github](/Git/Hello%20Github/README.md) > Stash
+
+---
+
+</br>
+
+# Stash
 
 ### 스태시(Stash)
 현재 브랜치에서 커밋되지 않은 변경사항이 존재하지만 다른 브랜치로 체크아웃할 수 있도록 하는 임시 저장소이다.
