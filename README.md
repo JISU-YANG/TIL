@@ -4,6 +4,7 @@
 ## Spring Framework
 - [List\<Dto>를 Get 방식으로 요청받기](/Spring%20Framework/dto배열을-get방식으로-요청받기.md)
 - [Annotation 기초](/Spring%20Framework/Annotation_%EA%B8%B0%EC%B4%88.md)
+- [DI와 IoC](/Spring%20Framework/DI%EC%99%80IoC.md)
 
 ## Java
 - [.class (Clsss Literals)](/Java/class-literals.md)
