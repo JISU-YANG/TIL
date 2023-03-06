@@ -22,6 +22,7 @@
 - ### Short
   - [Commit Message Guide](/Git/commit-message.md)
   - [Git Init 되돌리기](/Git/init-되돌리기.md)
+  - [Git Terminal 명령어](/Git/Git%20Terminal%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 - ### Series
   - [Hello, Github](/Git/Hello%20Github/README.md)
 
