@@ -16,8 +16,8 @@
 - ### Series
   - [Java 40 Level](/Java/Java%2040%20Level/README.md)
   - [알고리즘](/알고리즘/README.md)
-  - [객체지향](/JAVA/OOP/README.md)
-  - [리팩토링]
+  - [객체지향](/Java/OOP/README.md)
+  - [리팩토링](/Java/Refactoring/README.md)
 
 ## 네트워크
 - ### Series
